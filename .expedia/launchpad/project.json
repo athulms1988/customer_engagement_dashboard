@@ -1,0 +1,25 @@
+{
+	"name": "customer_engament_dashboard",
+	"enabled": true,
+	"icon": 15,
+	"team": "Novus",
+	"team-email": "v-jogjacob@carrentals.com",
+	"slack-channel": "#egxtechhackathoncok",
+	"tag-line": "A Customer Engagement Dashboard ",
+	"links": [
+		{
+			"name": "Example Link",
+			"url": "http://<link_url>"
+		}
+	],
+	"tags": [
+		"xTech Week 2018"
+	],
+	"contributors": [
+		"jogjacob",
+		"cchandran",
+		"sreekuttyv",
+		"hgopi",
+		"sannajoseph"
+	]
+}
